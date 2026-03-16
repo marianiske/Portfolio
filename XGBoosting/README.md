@@ -12,4 +12,4 @@ I trained an XGBClassifier for a three-class prediction task: home win, draw, or
 
 # Results
 The model achieved an accuracy of 76% on the validation set. Performance was strongest for home wins and away wins, while draws were the most difficult class to predict. This is consistent with the underlying class distribution and the general difficulty of modeling draws in football prediction. The confusion matrix shows a tendency to misclassify some draws and away wins as home wins, suggesting a mild bias toward the most common outcome. Confidence histograms indicate that correct predictions are generally associated with higher predicted probabilities, which suggests that the model's probability estimates are meaningful.
-![Results](XGBoosting/results.png)|
+![Results](results.png)|
