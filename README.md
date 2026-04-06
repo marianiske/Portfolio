@@ -1,5 +1,7 @@
 # Portfolio
-This is my portfolio to show my practical skills.
+AI Engineer | Data Scientist | (AI/Tech) Consulting
+
+I build machine learning systems with a focus on computer vision, applied ML, and LLM-based data applications.
 
 ## Click on a project name in the table to look at it in more detail.
 
