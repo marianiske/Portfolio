@@ -23,7 +23,7 @@ The project includes a Streamlit-based UI that allows users to:
 - Inspect tool calls and execution traces
 - Visualize results (tables and plots)
 
-![UI](images/application)
+![UI](images/Application.png)
 
 ## Architecture
 
@@ -136,7 +136,7 @@ The dataset "Fraud detection" has been successfully loaded. It contains 339607 r
 One can see all the tools in the Tool calls.
 
 ### Visualization
-![Plot](images/plot)
+![Plot](images/plot.png)
 
 ## Evaluation
 
